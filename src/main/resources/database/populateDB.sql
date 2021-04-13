@@ -1,0 +1,1 @@
+INSERT INTO users VALUES ('test', 'Ivan Ivanov', '1999-12-12', 'male');
